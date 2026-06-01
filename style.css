@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 170, 213);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    background-color: rgb(255, 198, 226);
+    width: fit-content;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+}
+ul {
+    list-style: none; 
+}
+.ancora1{
+    color: rgb(224, 81, 200);
+}
+.ancora2{
+    color: rgb(204, 50, 140);
+}
+.ancora3{
+    color: deeppink;
+}
+.ancora4{
+    color: fuchsia;
+}
+.ancora5{
+    color: rgb(255, 74, 189);
+}
